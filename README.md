@@ -47,4 +47,4 @@ python JogoDeAdivinhacao.py
 
 ## 👤 Autor
 
-Feito por **Marce**
+Feito por **Miguel Filipe**
